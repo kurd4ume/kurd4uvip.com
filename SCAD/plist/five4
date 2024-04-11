@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd …">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://kurd4u.online/group1/five4.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>url</key>
+<string>https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/6c/Fnaf_4_desktop_icon.jpg/revision/latest?cb=20150723014651</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>url</key>
+<string>https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/6c/Fnaf_4_desktop_icon.jpg/revision/latest?cb=20150723014651</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.scottgames.fnaf4</string>
+<key>bundle-version</key>
+<string>1.1.4</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>five nights at freddy's 4</string>
+</dict> 
+</dict>
+</array>
+</dict>
+</plist>
